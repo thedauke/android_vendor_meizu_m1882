@@ -162,4 +162,4 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m1882/proprietary/vendor/lib/modules/swr-wcd-ctrl.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/swr-wcd-ctrl.ko \
     vendor/meizu/m1882/proprietary/vendor/lib/modules/tspp.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/tspp.ko \
     vendor/meizu/m1882/proprietary/vendor/lib/modules/wcd-core.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/wcd-core.ko \
-    vendor/meizu/m1882/proprietary/vendor/lib/modules/wcd-dsp-glink.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/wcd-dsp-glink.ko
+    vendor/meizu/m1882/proprietary/vendor/lib/modules/wcd-dsp-glink.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/wcd-dsp-glink.ko 
